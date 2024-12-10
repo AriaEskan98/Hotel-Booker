@@ -106,7 +106,8 @@
 				<h2>Suite</h2> 
 				
 				  <asp:DropDownList ID="DropDownList3" class="dropdown" runat="server" tabindex="10" data-settings='{"wrapperClass":"flat"}'>
-                        <asp:ListItem Value="1">-</asp:ListItem>
+                        <asp:ListItem Value="0" Text="Select Suite" />
+
                         <asp:ListItem Value="1">Single Room</asp:ListItem>
                         <asp:ListItem Value="2">Premium Single Room</asp:ListItem>
                         <asp:ListItem Value="2">Double Room</</asp:ListItem>

@@ -30,9 +30,9 @@ public partial class users_Booking : System.Web.UI.Page
         da.Fill(ds);
 
         id2=int.Parse(ds.Tables[0].Rows[0]["BID"].ToString());
-        id2=1;
+     
 
-        if(id2 > 1)
+        if(id2 >= 1)
         {
             id2++;
         }
