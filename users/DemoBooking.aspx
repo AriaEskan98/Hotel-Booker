@@ -135,7 +135,7 @@
 </div>
 
 <div class="reg-footer">
-     <p>Copyright &copy; 2021 Booking . All Rights Reserved | Design by <a href="#">Jayesh Ahir</a></p>
+     <p>Copyright &copy; 2024 Booking . All Rights Reserved | Design by <a href="#">Aria Eskandarzadeh</a></p>
 </div>
     
     

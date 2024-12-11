@@ -90,7 +90,7 @@
         <p class=" w3l-register-p">Sign IN<a href="../RLfile/Login.aspx" class="register"> Login</a></p>
     </div>
     <footer>
-        <p class="copyright-agileinfo"> &copy; 2022  Login . All Rights Reserved | Design by <a href="#">Angel Jude Suarez</a></p>
+        <p class="copyright-agileinfo"> &copy; 2022  Login . All Rights Reserved | Design by <a href="#">Aria Eskandarzadeh</a></p>
     </footer>
 
         
